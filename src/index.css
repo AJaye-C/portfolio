@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --neon: #00FF80;
+  --neon-dim: #00cc66;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  @apply font-sans text-white antialiased;
+  background-color: #0f0e1a;
+  background-image:
+    linear-gradient(rgba(58, 58, 74, 0.12) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(58, 58, 74, 0.12) 1px, transparent 1px);
+  background-size: 40px 40px;
+}
+
+/* Force neon accent */
+.text-neon { color: var(--neon) !important; }
+.bg-neon { background-color: var(--neon) !important; }
+.border-neon { border-color: var(--neon) !important; }
+.hover\:text-neon:hover { color: var(--neon) !important; }
+.hover\:bg-neon:hover { background-color: var(--neon) !important; }
+.ring-neon { --tw-ring-color: var(--neon) !important; }
+.focus\:ring-neon:focus { --tw-ring-color: var(--neon) !important; }
+
+/* Resume button - dark text on green hover for readability */
+.resume-btn:hover {
+  color: #0a0a0a !important;
+}
+
+/* Contact form - cyberpunk-style inputs */
+.contact-input {
+  font-family: 'JetBrains Mono', 'Fira Code', monospace;
+  border: 1px solid rgba(180, 200, 255, 0.2);
+  box-shadow: 0 0 8px rgba(180, 200, 255, 0.08);
+}
