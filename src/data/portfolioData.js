@@ -10,7 +10,7 @@ export const personalInfo = {
   resumeUrl: './resume.pdf',
   github: 'https://github.com/AJaye-C',
   linkedin: 'https://linkedin.com/in/AJaye-C',
-  techStack: ['HTML/CSS', 'JavaScript', 'TypeScript', 'Python', 'C#', 'Laravel', 'React', 'Flutter', 'MySQL', 'Firebase', 'Git'],
+  techStack: ['HTML/CSS', 'JavaScript', 'TypeScript', 'Python', 'Laravel', 'React', 'Flutter', 'MySQL', 'Git'],
   education: [
     {
       title: 'Bachelor of Science in Computer Science',
