@@ -87,7 +87,7 @@ export default function About({ setActiveSection }) {
               rel="noopener noreferrer"
               className="resume-btn inline-block px-6 py-3 border-2 border-neon text-neon font-medium rounded hover:bg-neon transition-colors"
             >
-              View Résumé
+              View Resume
             </a>
           </div>
         </div>
