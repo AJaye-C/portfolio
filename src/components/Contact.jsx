@@ -113,7 +113,7 @@ export default function Contact({ setActiveSection }) {
               onChange={updateFormField}
               required
               className="contact-input w-full px-4 py-3 rounded-xl bg-[#1a1a24] text-white placeholder:text-white/40 focus:outline-none focus:border-[var(--neon)] focus:shadow-[0_0_12px_rgba(0,255,128,0.25)] transition-all duration-300"
-              placeholder="Your secret identity"
+              placeholder="Enter your name"
             />
           </div>
           <div>
@@ -128,7 +128,7 @@ export default function Contact({ setActiveSection }) {
               onChange={updateFormField}
               required
               className="contact-input w-full px-4 py-3 rounded-xl bg-[#1a1a24] text-white placeholder:text-white/40 focus:outline-none focus:border-[var(--neon)] focus:shadow-[0_0_12px_rgba(0,255,128,0.25)] transition-all duration-300"
-              placeholder="I promise I won't spam you"
+              placeholder="Enter your email address"
             />
           </div>
           <div>
