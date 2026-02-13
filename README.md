@@ -1,22 +1,24 @@
-# Portfolio
+# Ashley Cabanban — Portfolio
 
-A single-page portfolio site with dark theme, neon green accents, and smooth navigation.
+Hi, I'm **Ashley Cabanban**, a Web Developer and Computer Science student at CIIT College of Arts and Technology. I specialize in full-stack web and mobile application development.
 
-## Features
+This repository hosts my personal portfolio: a single-page site showcasing my projects, skills, education, and how to reach me.
 
-- **About** — Bio, tech stack, education tiles, resume button
-- **Portfolio** — Project cards with images, descriptions, and tech tags
-- **Contact** — Social links and contact form (Formspree-ready)
+**[View my portfolio →](https://ajaye-c.github.io/portfolio/)**
 
-## Setup
+---
+
+## About this site
+
+- **About** — Bio, tech stack, and education
+- **Portfolio** — Featured projects with descriptions and tech tags
+- **Contact** — Social links and contact form
+
+Built with React, Vite, and Tailwind CSS. Dark theme with neon green accents.
+
+## Local setup
 
 ```bash
 npm install
 npm run dev
 ```
-
-Edit `src/data/portfolioData.js` with your personal information and projects.
-
-Add your resume PDF to the `public` folder and ensure `resumeUrl` points to it.
-
-For the contact form to send real emails, add your Formspree form ID in `portfolioData.js`.

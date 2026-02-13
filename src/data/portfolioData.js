@@ -1,8 +1,4 @@
-// Customize this file with your personal information
-
-// For contact form: sign up at formspree.io and paste your form ID here
-// Leave empty to use mock submit (shows success message only)
-export const FORMSPREE_ID = ''
+export const FORMSPREE_ID = 'xkovjvdq'
 
 export const personalInfo = {
   name: 'Ashley Cabanban',
