@@ -7,10 +7,10 @@ export const personalInfo = {
   about: `I'm a Computer Science student at CIIT College of Arts and Technology, specializing in full-stack web and mobile application development. I build responsive, scalable applications using modern frameworks and technologies. I'm currently seeking internship opportunities where I can contribute to real-world projects, collaborate with talented teams, and continue growing as a developer.`,
   location: 'Quezon City, Philippines',
   email: 'ashleyjaye.cabanban@gmail.com',
-  resumeUrl: '/resume.pdf',
+  resumeUrl: './resume.pdf',
   github: 'https://github.com/AJaye-C',
   linkedin: 'https://linkedin.com/in/AJaye-C',
-  techStack: ['JavaScript', 'TypeScript', 'React', 'Node.js', 'Python', 'HTML/CSS'],
+  techStack: ['HTML/CSS', 'JavaScript', 'TypeScript', 'Python', 'C#', 'Laravel', 'React', 'Flutter', 'MySQL', 'Firebase', 'Git'],
   education: [
     {
       title: 'Bachelor of Science in Computer Science',
