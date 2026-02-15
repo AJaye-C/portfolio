@@ -40,7 +40,7 @@ export const projects = [
     description: 'A blockchain-based donation management system that records every donation as an immutable Ethereum transaction, giving donors cryptographic receipts and real-time dashboards to track how their money flows from donation to beneficiary.',
     image: './projects/donaid.png',
     tags: ['TypeScript', 'Next.js', 'Solidity', 'Prisma'],
-    liveUrl: null,
+    liveUrl: 'https://youtu.be/wrbqJnNeXuo',
     githubUrl: null,
   },
   {
