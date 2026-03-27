@@ -10,7 +10,7 @@ This repository hosts my personal portfolio: a single-page site showcasing my pr
 
 ## CV
 
-[Download My CV](./Cabanban_Resume_2026 (Updated).pdf)
+[Download My CV](./Cabanban_Resume_2026%20(Updated).pdf)
 
 ---
 
